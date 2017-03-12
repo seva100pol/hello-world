@@ -1,2 +1,2 @@
 # hello-world
-My first acquaintance
+My first acquaintance with GITHUB.
